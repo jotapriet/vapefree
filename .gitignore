@@ -1,0 +1,17 @@
+dist/
+.vercel/
+node_modules/
+.env*
+
+# Credenciales, archivos locales y respaldos de progreso
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+auth.json
+vapefree-*.json
+backups/
+*.log
+
+.vercel
